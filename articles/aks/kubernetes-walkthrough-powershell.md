@@ -72,7 +72,7 @@ ResourceId        : /subscriptions/00000000-0000-0000-0000-000000000000/resource
 
 ## Create AKS cluster
 
-Use the `ssh-keygen` command-line utility to generate an SSH key pair. For more details, see
+Use the **`ssh-keygen`** command-line utility to generate an SSH key pair. For more details, see
 [Quick steps: Create and use an SSH public-private key pair for Linux VMs in Azure](/azure/virtual-machines/linux/mac-create-ssh-keys).
 
 Use the [New-AzAks][new-azaks] cmdlet to create an AKS cluster. The
